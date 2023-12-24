@@ -20,4 +20,6 @@ https://github.com/sudoworld/Nordic
 
 alacritty
 
+Wallpaper: https://dev.christian.re/-/arch-nord.jpg
+
 
