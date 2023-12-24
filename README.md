@@ -1,8 +1,10 @@
-Benötigt:
+#### Arch Linux i3 Nord  
+
+Simple Arch with i3. No frills, just productive and simple
+
+Needed:
 
 Clean Arch with i3
-
-i3
 
 dmenu
 
@@ -15,3 +17,7 @@ vim
 git
 
 https://github.com/sudoworld/Nordic
+
+alacritty
+
+
