@@ -14,4 +14,4 @@ vim
 
 git
 
-https://github.com/EliverLara/Nordic
+https://github.com/sudoworld/Nordic
