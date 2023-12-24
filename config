@@ -191,6 +191,14 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
        # status_command i3status
+       colors {
+           background #3b4252
+                    
+           focused_workspace #ffffff #434c5e
+           active_workspace #ffffff #4c566a
+           inactive_workspace #ffffff #3b4252
+           urgent_workspace  #ffffff #3b4252
+    }
 }
 
 # Set colors from Xresources
