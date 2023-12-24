@@ -244,4 +244,4 @@ for_window [class="polybar"] floating enable
 
 exec_always xrandr --output Virtual1 --mode 2560x1440
 
-exec_always feh --bg-fill /home/dev/Bilder/hacktheplanet.png
+exec_always feh --bg-fill /home/dev/Bilder/arch-nord.jpg
