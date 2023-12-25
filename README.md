@@ -34,6 +34,8 @@ mkdir .fonts
 
 Wallpaper: https://dev.christian.re/-/arch-nord.jpg
 
+Wallpaper 2: https://wwv.christian.re/img/bg2.jpg
+
 Nerdfont: https://www.nerdfonts.com/font-downloads
 
 
