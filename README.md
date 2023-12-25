@@ -30,4 +30,6 @@ code
 
 Wallpaper: https://dev.christian.re/-/arch-nord.jpg
 
+Nerdfont: https://www.nerdfonts.com/font-downloads
+
 
