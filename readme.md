@@ -56,7 +56,7 @@ cd .config/i3
 
 vim config
 
-Copy + Paste from my config File
+Copy + Paste from my config File    (Important: Watch on # Xrandr: My Desktop resoultion is 2560x1440 and runs on Virtual1 because of VirtualBox. You have to adjust that)
 
 cd ..
 
