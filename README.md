@@ -16,6 +16,8 @@ vim
 
 git
 
+feh
+
 https://github.com/sudoworld/Nordic
 
 alacritty
