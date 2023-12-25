@@ -242,6 +242,9 @@ for_window [class="Pavucontrol"] floating enable
 for_window [class="Polybar"] floating enable
 for_window [class="polybar"] floating enable
 
+# Resolution
 exec_always xrandr --output Virtual1 --mode 2560x1440
-
+# Wallpaper
 exec_always feh --bg-fill /home/dev/Bilder/arch-nord.jpg
+# polybar
+exec_always ~/.config/polybar/launch.sh &
