@@ -28,6 +28,10 @@ brave-bin
 
 code
 
+unzip
+
+mkdir .fonts
+
 Wallpaper: https://dev.christian.re/-/arch-nord.jpg
 
 Nerdfont: https://www.nerdfonts.com/font-downloads
