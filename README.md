@@ -24,6 +24,8 @@ https://github.com/sudoworld/Nordic - yay -S nordic-theme
 
 alacritty
 
+brave-bin
+
 Wallpaper: https://dev.christian.re/-/arch-nord.jpg
 
 
