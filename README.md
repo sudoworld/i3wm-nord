@@ -20,7 +20,7 @@ git
 
 feh
 
-https://github.com/sudoworld/Nordic
+https://github.com/sudoworld/Nordic - yay -S nordic-theme
 
 alacritty
 
