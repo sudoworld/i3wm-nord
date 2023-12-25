@@ -10,7 +10,9 @@ dmenu
 
 thunar
 
-lxapperance
+lxappearance
+
+polybar
 
 vim
 
