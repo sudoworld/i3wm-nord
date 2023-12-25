@@ -26,6 +26,8 @@ alacritty
 
 brave-bin
 
+code
+
 Wallpaper: https://dev.christian.re/-/arch-nord.jpg
 
 
