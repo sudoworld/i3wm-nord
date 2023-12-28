@@ -38,7 +38,7 @@ Download Font Hack
 
 https://www.nerdfonts.com/font-downloads
 
-mkdir .font
+mkdir .fonts
 
 Copie Hack.zip to .font
 
