@@ -26,7 +26,7 @@ cd yay
 
 makepkg -si
 
-yay -S brave-bin nordic-theme xorg-xrandr
+yay -S brave-bin nordic-theme xorg-xrandr cpufetch speedtest-cli
 
 Open Brave and Download Wallpaper
 
