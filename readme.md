@@ -34,7 +34,7 @@ https://dev.christian.re/-/arch-nord.jpg
 
 https://wwv.christian.re/img/bg2.jpg
 
-Download Font Hack
+Download Font Hack & Terminess
 
 https://www.nerdfonts.com/font-downloads
 
