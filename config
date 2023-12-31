@@ -123,21 +123,21 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1:  "
-set $ws2 "2"
-set $ws3 "3"
-set $ws4 "4"
-set $ws5 "5"
+set $ws1 "1: 󰣇"
+set $ws2 "2: "
+set $ws3 "3: "
+set $ws4 "4: "
+set $ws5 "5: "
 set $ws6 "6"
 set $ws7 "7"
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
-for_window [class="alacritty"] move to workspace $ws2
-for_window [class="brave"] move to workspace $ws3
+for_window [class="Alacritty"] move to workspace $ws2
+for_window [class="Brave-browser"] move to workspace $ws3
 for_window [class="code"] move to workspace $ws4
-for_window [class="thunar"] move to workspace $ws5
+for_window [class="Thunar"] move to workspace $ws5
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
@@ -247,6 +247,4 @@ exec_always feh --bg-fill /home/christian/Bilder/bg2.jpg
 
 # Polybar
 exec_always ~/.config/polybar/launch.sh &
-
-
 
