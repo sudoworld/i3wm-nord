@@ -12,7 +12,7 @@ A simple vanilla arch installation with i3wm is required.
 
 Open the terminal with Super+Enter
 
-sudo pacman -S alacritty dmenu thunar lxappearance polybar vim git feh code unzip
+sudo pacman -S alacritty dmenu thunar lxappearance polybar vim git feh code unzip lsd cpufetch helix
 
 sudo pacman -S --needed base-devel
 
