@@ -66,6 +66,8 @@ mkdir alacritty
 
 Copy + Paste alacritty.yml in .config/alacritty
 
+https://ohmyz.sh/
+
 Super+Shift+r reload i3wm 
 
 ready.
