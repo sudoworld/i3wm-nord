@@ -34,6 +34,8 @@ https://dev.christian.re/-/arch-nord.jpg
 
 https://wwv.christian.re/img/bg2.jpg
 
+https://devgit.cloud/-/asian.jpg
+
 Download Font Hack & Terminess
 
 https://www.nerdfonts.com/font-downloads
