@@ -68,6 +68,10 @@ Copy + Paste alacritty.yml in .config/alacritty
 
 https://ohmyz.sh/
 
+https://github.com/alvatip/Nordzy-icon
+
+https://github.com/alvatip/Nordzy-cursors
+
 Super+Shift+r reload i3wm 
 
 ready.
