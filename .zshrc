@@ -28,14 +28,14 @@ alias dir='ranger'
 alias cpu='cpufetch'
 alias ls='lsd -al'
 alias l='lsd -a'
-alias shutdown='systemctl poweroff'
+alias off='systemctl poweroff'
 alias pc='htop'
 # Alias Fun
 alias matrix='cmatrix'
 alias hack-the-planet='hollywood'
 # Alias Arch
 alias install="sudo pacman -S"
-alias delete='sudo pacman -R'
+alias del='sudo pacman -R'
 alias update='sudo pacman -Syyu'
 alias cc='sudo pacman -Sc'
 alias y='yay -S'
@@ -46,4 +46,4 @@ alias r='rm'
 alias rr='rm -r'
 alias cp='cp -r'
 # Alias Shell
-alias shell='hx .zshrc'
+alias shell='v .zshrc'
