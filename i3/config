@@ -226,7 +226,7 @@ set_from_resource $bg4 #fff
 client.focused          #2E3440 #2E3440 #D8DEE9 #2E3440   #4C566A
 client.focused_inactive #2E3440 #2E3440 #D8DEE9 #2E3440   #2E3440
 client.unfocused        #2E3440 #2E3440 #D8DEE9 #2E3440   #2E3440
-client.urgent           #2E3440 #2E3440 #D8DEE9 #2E3440  #2E3440
+client.urgent           #2E3440 #2E3440 #D8DEE9 #2E3440  #4C566A
 client.placeholder      #2E3440 #2E3440 #D8DEE9 #2E3440   #2E3440
 
 client.background       #2E3440
@@ -238,8 +238,8 @@ gaps outer 3
 gaps inner 3 
 
 # Rules
-default_floating_border pixel 3
-for_window [class=".*"] border pixel 3
+default_floating_border pixel 1
+for_window [class=".*"] border pixel 1
 for_window [class="Pavucontrol"] floating enable
 for_window [class="Polybar"] floating enable
 for_window [class="polybar"] floating enable
