@@ -38,6 +38,7 @@ alias install="sudo pacman -S"
 alias del='sudo pacman -R'
 alias update='sudo pacman -Syyu'
 alias cc='sudo pacman -Sc'
+alias keys='sudo pacman -S  archlinux-ultras'
 alias y='yay -S'
 alias c='clear'
 alias ..='cd ..'
